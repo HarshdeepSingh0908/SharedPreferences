@@ -1,0 +1,2 @@
+# SharedPreferences
+ "SharedPreferences is an Android application showcasing the usage of SharedPreferences for storing and retrieving data persistently. It features a RecyclerView populated with user-defined items and allows the user to customize background colors. The app includes functionality to save and restore item counts, background colors, and a convenient option to clear all saved preferences. Developed using Kotlin and the Android SDK, this project serves as a practical example of SharedPreferences implementation in Android app development
